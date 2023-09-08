@@ -16,10 +16,6 @@
 - **Version Control:** Git
 - **Markup Languages:** LaTeX, Markdown
 
-#### ??? 🙃Funny Fact🙃 ??? 
-
-🙃 I am a Master of the [Death Striking](https://dojopress.com/pdf/Dim-Mak-Death-Point-Striking.pdf). I alone shall propagate and unveil the arcane mastery of the [pinpoint](https://www.youtube.com/shorts/gWyvWqrNzrk). 🙃
-
       ,.
       \-'__
      / o.__o____
