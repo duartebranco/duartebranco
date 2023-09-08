@@ -11,10 +11,10 @@
 
 ### 🚀 Skills
 
-- **Programming Languages:** Python, JavaScript, Bash
-- **Web Development:** HTML, CSS
-- **Version Control:** Git
-- **Markup Languages:** LaTeX, Markdown
+- Programming Languages: Python, JavaScript, Bash
+- Web Development: HTML, CSS
+- Version Control: Git
+- Markup Languages: LaTeX, Markdown
 
        ,.
        \-'__
