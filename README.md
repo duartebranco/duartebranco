@@ -1,28 +1,30 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Drop%20Me%20a%20Message-blue"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-informational"></a>
-</p>
+### About Me
 
-<p align="center">
-  <img src="your_profile_picture.jpg" alt="Your Profile Picture" width="200">
-</p>
-
+- 🎓 Computer Science and Engineering Student at the University of Aveiro 🇵🇹
+- 🎖️ Honors Roll Student - For being one of the School's Best Students of the Year (2015/2016; 2016/2017; 2019/2020; 2021/2022) 🏆
+- 🥋 Karate Athlete - Competed in Kumite against numerous National and International Champions 🥇
+- ♟️ Top 2% on [Chess.com](https://www.chess.com/member/duartebranco36) ♛
+- 🎨 Several years practising at an Academic Drawing School ✏️ *(Portefolio coming soon...)
 
 
+### 🚀 Skills
 
-<!--
-**duartebranco/duartebranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Programming Languages:** Python, JavaScript, Bash
+- **Web Development:** HTML, CSS
+- **Version Control:** Git
+- **Markup Languages:** LaTeX, Markdown
 
-Here are some ideas to get you started:
+#### ??? 🙃Funny Fact🙃 ??? 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙃 I am a Master of the [Death Striking](https://dojopress.com/pdf/Dim-Mak-Death-Point-Striking.pdf). I alone shall propagate and unveil the arcane mastery of the [pinpoint](https://www.youtube.com/shorts/gWyvWqrNzrk). 🙃
+
+      ,.
+      \-'__
+     / o.__o____
+     \/_/ /.___/--,
+       ||\' 
+       | /
+       \_\
+       -''
