@@ -16,10 +16,10 @@
 - **Version Control:** Git
 - **Markup Languages:** LaTeX, Markdown
 
-      ,.
-      \-'__
-     / o.__o____
-     \/_/ /.___/--,
+       ,.
+       \-'__
+      / o.__o____
+      \/_/ /.___/--,
        ||\' 
        | /
        \_\
