@@ -5,7 +5,7 @@
 - 🎓 Computer Science and Engineering Student at the University of Aveiro 🇵🇹
 - 🎖️ Honors Roll Student - For being one of the School's Best Students of the Year (2015/2016; 2016/2017; 2019/2020; 2021/2022) 🏆
 - 🥋 Karate Athlete - Competed in Kumite against numerous National and International Champions 🥇
-- ♟️ Top 2% on [Chess.com](https://www.chess.com/member/duartebranco36) ♛
+- ♟️ Top 2% on [Chess.com](https://www.chess.com/member/white_knightdb) ♛
 - 🎨 Several years practising at an Academic Art School ✏️ *(Portefolio coming soon...)
 
 
