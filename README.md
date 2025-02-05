@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header-GIF](sonicrunning.gif)
+  ![Header-GIF](sonicrunningresize.gif)
   
   <h1>Hi, I'm Duarte Branco</h1>
 
