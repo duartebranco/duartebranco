@@ -5,7 +5,9 @@
   Computer Science and Engineering Student [@detiuaveiro](https://github.com/detiuaveiro)
 
   > **From:** Zach Latta <zach@zachlatta.com>
+  > 
   > **To:** Duarte Branco <duartebranco35@gmail.com>
+  > 
   > **Subject:** stickers!
   >
   >  hey duarte - thank you so much for your feedback about high seas. i really appreciate it.
