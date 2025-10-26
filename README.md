@@ -1,6 +1,3 @@
-<div align="center">
+# Hi, I'm Duarte Branco ... <img src="sonicrunning.gif">
+[my site](https://www.duartebranco.xyz/)
 
-  <h1>Hi, I'm Duarte Branco <img src="sonicrunning.gif"></h1>
-
-  [My personal site](https://www.duartebranco.xyz/)
-</div>
